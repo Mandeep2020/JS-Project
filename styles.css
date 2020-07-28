@@ -1,0 +1,50 @@
+.mainblock {
+	width: 90%;
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 100px;
+	height: auto;
+	min-height: 80%;
+	margin: auto;
+}
+
+#tname {
+	border: 1px solid blue;
+	border-radius: 100px;
+	width: 60%;
+	height: 40px;
+}
+
+
+.add {
+	background: white;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.add:hover{
+	background: Black;
+	color: white;
+	border: 1px solid white;
+	padding: 20px;
+}
+
+.todo {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 40%;
+	height: auto;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+.map {
+	margin: auto;
+	width: 40%;
+	height: 250px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	padding: 10px;
+}
